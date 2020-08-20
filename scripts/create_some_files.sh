@@ -9,5 +9,6 @@ echo "file4" > resource-tutorial/some-files/file4
 ls resource-tutorial/some-files
 echo "here -- "
 ls -al
+cd resource-tutorial
 ls -alR
 pwd
