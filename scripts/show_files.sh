@@ -1,5 +1,5 @@
 #!/bin/sh
 
-ls some-files/*
-ls -al
+ls resource-tutorial/some-files/*
+ls -alR
 pwd
