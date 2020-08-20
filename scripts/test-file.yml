@@ -8,4 +8,4 @@ image_resource:
 inputs:
   - name: resource-tutorial 
 run:
-  path: ./resource-tutorial/scripts/list_all.sh
+  path: ls
