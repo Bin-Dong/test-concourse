@@ -1,2 +1,1 @@
-cd ..
-ls -alR
+ls -al
