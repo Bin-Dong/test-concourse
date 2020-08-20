@@ -2,3 +2,4 @@
 
 ls some-files/*
 ls -al
+pwd
