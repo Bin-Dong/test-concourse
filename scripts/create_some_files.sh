@@ -7,3 +7,7 @@ echo "file3" > some-files/file3
 echo "file4" > some-files/file4
 
 ls some-files/*
+echo "here -- "
+ls -al
+pwd
+echo "done -- "
