@@ -1,4 +1,4 @@
 #!/bin/sh
-pwd
+ls -al
 sleep 5
-pwd
+ls -al
