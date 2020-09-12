@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo "hello world!"
+cat list_all.sh
 sleep 5
-echo "woah!"
+cat list_all.sh
