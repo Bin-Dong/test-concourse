@@ -1,4 +1,3 @@
-#!/bin/sh
-cd ..
-cd ..
-ls -alR
+echo "hello world!"
+sleep 10
+echo "after sleeping!"
