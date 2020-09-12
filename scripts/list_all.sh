@@ -1,5 +1,4 @@
 #!/bin/sh
-
-cat list_all.sh
+pwd
 sleep 5
-cat list_all.sh
+pwd
